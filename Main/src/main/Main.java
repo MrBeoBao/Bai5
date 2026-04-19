@@ -47,7 +47,7 @@ public class Main extends JFrame implements ActionListener {
     public void actionPerformed(ActionEvent e) {
 
     }
-
+//ddddd
     public static void main(String[] args) {
         new Main().setVisible(true);
     }
