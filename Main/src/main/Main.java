@@ -75,7 +75,7 @@ public class Main extends JFrame implements ActionListener {
             num1 = num2 = result = 0;
         }
     }
-
+//ddddd
     public static void main(String[] args) {
         new Main().setVisible(true);
     }
